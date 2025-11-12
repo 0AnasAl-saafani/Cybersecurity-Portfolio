@@ -63,8 +63,8 @@ Upon completing my studies, I plan to:
 - Help build secure digital ecosystems in Yemen
 
 ## 📞 Contact & Links
-- **GitHub Portfolio**: [https://github.com/OAnasAI-saafani/Cybersecurity-Portfolio](https://github.com/OAnasAI-saafani/Cybersecurity-Portfolio)
-- **Email**: alsasfaiinama2006@gmail.com
+- **GitHub Portfolio**: https://github.com/0AnasAl-saafani/Cybersecurity-Portfolio
+- **Email**: alsaafanianas2006@gmail.com
 - **Phone**: +967770134419
 
 ## 🔗 Repository Structure
