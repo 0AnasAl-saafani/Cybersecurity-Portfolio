@@ -1,5 +1,5 @@
 # Cybersecurity Portfolio - Anas Al-Saafani
-##Official Scholarship Application Supplement
+## Official Scholarship Application Supplement
 
 ---
 
@@ -16,7 +16,7 @@ This portfolio contains **all supplementary materials** for my Russian Governmen
 ### 🔐 **Security & Cryptography Projects** (`/04_Security_Related_Projects/`)
 Projects demonstrating my interest in information security and encryption principles.
 
-*   **[Advanced Text Cipher System](04_Security_Related_Projects/advanced_cipher.cpp)** - A sophisticated encryption/decryption system with multiple algorithms and Arabic text support.
+*   **[Advanced Text Cipher System](04_Security_Related_Projects/advanced_multi_cipher.cpp)** - A sophisticated encryption/decryption system with multiple algorithms and Arabic text support.
     *   **Features:** Multiple encryption methods, Windows-1256 Arabic encoding, vector-based processing, string reversal algorithms.
     *   **Concepts:** Advanced cryptography, algorithm diversity, multi-language programming, data structures.
     *   **Significance:** Demonstrates deep understanding of cryptographic principles and practical implementation skills.
@@ -60,11 +60,11 @@ A clear progression from core concepts to functional applications.
 *   Complete intensive **Russian language preparatory course**.
 *   Establish strong academic standing in Bachelor's-level Computer Science and Mathematics.
 
-### **Phase 2: Core Specialization (Years 3-4)**
+### **Phase 2: Core Specialization (Years 3-5)**
 *   Excel in **Bachelor's program in Information Security (10.03.01)**.
 *   Gain practical skills in network security, cryptography, and system protection.
 
-### **Phase 3: Advanced Expertise (Years 5-6)**
+### **Phase 3: Advanced Expertise (Years 6-7)**
 *   Pursue a **Master's Degree in Penetration Testing & Ethical Hacking** in Russia.
 *   Obtain industry certifications (e.g., OSCP) and conduct advanced research.
 
