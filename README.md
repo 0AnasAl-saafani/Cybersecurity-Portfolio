@@ -1,116 +1,96 @@
 # Cybersecurity Portfolio - Anas Al-Saafani
-## Russian Government Scholarship Application - YEM-11031/26
+##Official Scholarship Application Supplement
 
 ---
 
-## 📌 Application Summary
-- **Application Number:** YEM-11031/26  
-- **Name:** AL-SAAFANI ANAS AHMED ABDO ALI  
-- **Nationality:** Yemeni  
-- **Field:** 10.03.01 Information Security  
-- **Degree Path:** Preparatory Year → Bachelor's (4y) → Master's in Penetration Testing (2y)  
-- **Target Universities:** ITMO University, HSE University, Far Eastern Federal University, Financial University, Don State Technical University, Immanuel Kant Baltic Federal University  
+## 📋 Application Context
+This portfolio contains **all supplementary materials** for my Russian Government Scholarship application (**YEM-11031/26**) that could not be submitted through the official portal due to technical constraints. It demonstrates my practical programming skills, project development journey, and serious commitment to cybersecurity.
+
+**Application Reference:** `YEM-11031/26`
+**Last Updated:** Jan 2026
 
 ---
 
-## 🎯 Post-Graduation Plans
+## 💻 Technical Projects
 
-### **Immediate Plan After Bachelor's:**
-- Pursue **Master's Degree in Penetration Testing & Ethical Hacking** (2 years)
-- Obtain industry certifications: **OSCP, GPEN**
-- Specialize in offensive security and vulnerability assessment
+### 🔐 **Security & Cryptography Projects** (`/04_Security_Related_Projects/`)
+Projects demonstrating my interest in information security and encryption principles.
 
-### **Career Development Track:**
-1. **Years 1-2 (Master's):** Advanced penetration testing techniques, CTF competitions
-2. **Years 3-4 (Professional):** Work as Penetration Tester, develop security tools
-3. **Years 5+ (Regional Impact):** Return to Yemen to establish **first Penetration Testing Lab**, train local professionals, protect critical infrastructure
+*   **[Advanced Text Cipher System](04_Security_Related_Projects/advanced_cipher.cpp)** - A sophisticated encryption/decryption system with multiple algorithms and Arabic text support.
+    *   **Features:** Multiple encryption methods, Windows-1256 Arabic encoding, vector-based processing, string reversal algorithms.
+    *   **Concepts:** Advanced cryptography, algorithm diversity, multi-language programming, data structures.
+    *   **Significance:** Demonstrates deep understanding of cryptographic principles and practical implementation skills.
 
----
+*   **[simple Text Cipher](04_Security_Related_Projects/simple_numeric_cipher.cpp)** - Foundational cipher system demonstrating encryption/decryption concepts.
+    *   **Features:** Custom character mapping, menu-driven interface, error handling.
+    *   **Concepts:** Basic cryptography, string manipulation, control structures.
 
-## 📚 Academic Background
-- **High School GPA:** 96.88% (Honor Student, Jamal Abdul Nasser High School)
-- **Current Status:** Applying for Russian Government Scholarship
-- **Study Plan:** 7-year comprehensive pathway (1 prep + 4 Bachelor's + 2 Master's)
+### 💻 **C++ Foundations & Applications** (`/03_Cpp_Foundations/`)
+Projects building proficiency in C++ programming.
 
----
+*   **[Input/Output Handler](03_Cpp_Foundations/input_handler.cpp)** - Practice with control flow and user input.
+*   **[Even Number Printer](03_Cpp_Foundations/even_numbers.cpp)** - A foundational loop exercise.
 
-## 💻 Technical Projects & Skills
+### 📗 **C Programming: From Basics to Applications** (`/01_Beginner_C_Concepts/` & `/02_Intermediate_C_Applications/`)
+A clear progression from core concepts to functional applications.
 
-### **C/C++ Programming Projects:**
+*   **Core Concepts (`/01_Beginner_C_Concepts/`):**
+    *   **[Simple Login System](01_Beginner_C_Concepts/simple_login.c)** - Basic username/password authentication with input validation.
+    *   **[Array Sorter](01_Beginner_C_Concepts/array_sorter.c)** - Program implementing array input and sorting algorithms.
 
-#### **1. Simple Numeric Cipher System (`simple_numeric_cipher.cpp`)**
-- **Description:** A basic console-based encryption tool that converts text messages into numeric codes and vice versa
-- **Features:**
-  - Menu-driven interface with Send, Receive, and Exit options
-  - Character-to-code mapping for letters (A-Z), numbers (0-9), and spaces
-  - Encoding: Converts each character to a 5-digit numeric code
-  - Decoding: Takes 5-digit blocks, sums the digits, and maps back to characters
-  - Input validation for code length
-- **Security Concept:** Demonstrates basic substitution cipher principles
-- **Purpose:** Learning fundamental cryptography concepts and C++ programming
-
-#### **2. Advanced Multi-Algorithm Cipher System (`advanced_multi_cipher.cpp`)**
-- **Description:** A sophisticated encryption tool with multiple encoding schemes and bilingual interface
-- **Features:**
-  - **Four different encryption algorithms** (code1, code2, code3, code4)
-  - **Random algorithm selection** for each session
-  - **Bilingual interface** (Arabic/English) with proper text rendering
-  - **Extended character support** including special symbols and Arabic letters
-  - **Complex decoding mechanism** using mathematical operations on encoded values
-  - **Modular design** with separate functions for each encryption method
-- **Technical Highlights:**
-  - Uses Windows character encoding (`chcp 1256`) for Arabic support
-  - Implements vector data structures for number processing
-  - Includes string manipulation and reversal for Arabic text display
-  - Demonstrates multi-algorithm cryptographic systems
-- **Security Concept:** Shows principles of algorithm diversity and encoding complexity
-- **Purpose:** Advanced cryptography learning and multi-language software development
-
-### **Other C/C++ Projects:**
-- 🔐 **Authentication System (C):** Secure login with input validation
-- 🔢 **Sorting Algorithm (C):** Array manipulation and algorithm implementation  
-- 📟 **Menu-Driven Calculator (C):** Modular console application
-- 🔄 **Basic Programs (C++):** Foundational coding exercises
-
-### **Technical Skills:**
-- **Languages:** C, C++ (self-taught through projects)
-- **Concepts:** Algorithms, Data Structures, Security Principles, Cryptography Basics
-- **Tools:** GitHub, Debugging, Problem-Solving, Multi-language Programming
-- **Languages:** Arabic (native), English (intermediate), Russian (beginner - prep year planned)
+*   **Applied Projects (`/02_Intermediate_C_Applications/`):**
+    *   **[Menu-Driven Scientific Calculator](02_Intermediate_C_Applications/menu-driven-calculator.c)** - Advanced console application with multiple mathematical operations including geometric calculations and number comparisons.
+    *   **Features:** Modular design, multiple calculation modes, user-friendly interface, error handling.
+    *   **Concepts:** Software design patterns, modular programming, mathematical algorithms.
 
 ---
 
-## 🌍 Why Russia for Cybersecurity?
-1. **Academic Excellence:** Globally recognized STEM programs
-2. **Cybersecurity Leadership:** Advanced research and technical innovation
-3. **Structured International Education:** Established preparatory system for foreign students
-4. **Cultural Exchange:** Multicultural academic environment
+## 🛠️ Technical Skills & Progression
+*   **Programming Languages:** C (Intermediate), C++ (Intermediate).
+*   **Core Concepts:** Data Structures, Algorithms, Cryptography, Modular Programming, Software Design.
+*   **Security Focus:** Practical implementation of encryption systems, understanding of cryptographic principles.
+*   **Tools & Practices:** Git, GitHub, Debugging, Problem-Solving, Multi-language Development.
+*   **Languages:** Arabic (Native), English (Upper-Intermediate), Russian (Beginner - Planned Preparatory Year).
 
 ---
 
-## 📊 Additional Achievements
+## 🎓 Study & Career Roadmap (Aligned with Russian Scholarship)
 
-### **Why Penetration Testing for Yemen?**
-- Middle East faces increasing sophisticated cyber attacks
-- Yemen needs proactive security professionals to identify vulnerabilities
-- Ethical hacking skills essential for building resilient national infrastructure
+### **Phase 1: Foundation (Years 1-2)**
+*   Complete intensive **Russian language preparatory course**.
+*   Establish strong academic standing in Bachelor's-level Computer Science and Mathematics.
 
-### **Progressive Skill Development:**
-1. **Prep Year:** Russian language + academic foundations
-2. **Bachelor's:** Core cybersecurity knowledge
-3. **Master's:** Specialized penetration testing expertise
-4. **Practice:** Real-world security assessment in Yemen
+### **Phase 2: Core Specialization (Years 3-4)**
+*   Excel in **Bachelor's program in Information Security (10.03.01)**.
+*   Gain practical skills in network security, cryptography, and system protection.
 
----
+### **Phase 3: Advanced Expertise (Years 5-6)**
+*   Pursue a **Master's Degree in Penetration Testing & Ethical Hacking** in Russia.
+*   Obtain industry certifications (e.g., OSCP) and conduct advanced research.
 
-## 📞 Contact Information
-- **Email:** alsaafanianas2006@gmail.com  
-- **Phone:** +967770134419  
-- **GitHub:** https://github.com/0AnasAl-saafani/Cybersecurity-Portfolio  
-- **Location:** Sana'a, Yemen  
+### **Post-Graduation Vision**
+*   Return to Yemen to **contribute to national cybersecurity infrastructure**.
+*   Establish training initiatives to develop local talent in information security.
+*   Work towards making Yemen's digital space more secure and resilient.
 
 ---
 
-> **Note:** This repository supplements my scholarship application, containing information that couldn't be added due to technical restrictions on the submission platform. All required application materials are prepared and ready for submission. The included C++ projects demonstrate my practical coding skills and interest in security technologies.
+## 🌍 Why Russia for This Path?
+1.  **World-Class Technical Education:** Renowned for excellence in STEM, particularly in cybersecurity and cryptography.
+2.  **Structured Support System:** Established preparatory programs specifically designed for international students' success.
+3.  **Cultural & Academic Exchange:** The opportunity to learn in a historically rich, multicultural environment that values deep technical knowledge.
+4.  **Advanced Research Facilities:** Access to cutting-edge cybersecurity research and development centers.
 
-**Application Reference: YEM-11031/26**
+---
+
+## 📞 Contact & Application Details
+*   **Applicant:** Anas Al-Saafani 
+*   **Scholarship Application ID:** **YEM-11031/26**
+*   **Email:** alsaafanianas2006@gmail.com
+*   **Phone:** +967770134419
+*   **Location:** Sana'a, Yemen
+*   **Full Portfolio:** [github.com/0AnasAl-saafani/Cybersecurity-Portfolio](https://github.com/0AnasAl-saafani/Cybersecurity-Portfolio)
+*   **Application Status:** Currently in local approval stage with Russian diplomatic mission in Yemen.
+
+---
+> *This repository is maintained as the complete and organized reference for my scholarship application committee. All projects are self-authored and reflect my dedicated learning journey into programming and information security. The progression from basic to advanced projects demonstrates consistent skill development and serious commitment to the field of cybersecurity.*
