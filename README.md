@@ -38,7 +38,7 @@ This portfolio contains **all required supplementary information** for my applic
 *   **Programming:** C (Intermediate), C++ (Intermediate).
 *   **Concepts:** Data Structures, Algorithms, Basic Cryptography, Modular Programming.
 *   **Tools:** Git, GitHub, Debugging.
-*   **Languages:** Arabic (Native), English (Upper-Intermediate), Russian (Beginner - **Planned Preparatory Year**).
+*   **Languages:** Arabic (Native), English (Intermediate), Russian (Beginner - **Planned Preparatory Year**).
 
 ---
 
