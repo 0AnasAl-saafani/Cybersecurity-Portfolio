@@ -6,7 +6,7 @@
 ### **🎯 Executive Summary & Vision**
 A Yemeni honor student (96.88% GPA) deeply passionate about cybersecurity. I aim to use the Russian Government Scholarship to acquire advanced expertise in **Penetration Testing and Offensive Security**, with the ultimate goal of returning to Yemen to contribute to its national digital defense. My long-term vision includes working towards establishing **Yemen's first dedicated "Penetration Testing and Security Validation Lab"** to train local talent and proactively safeguard critical national infrastructure.
 
-**Application ID:** `YEM-11031/26` | **Last Updated:** January 2026
+**Application ID:** `YEM-11031/26` | **Last Updated:** February 2026
 
 ---
 
