@@ -13,6 +13,7 @@ A Yemeni honor student (96.88% GPA) deeply passionate about cybersecurity. I aim
 ### **📋 Application Context**
 This portfolio contains **all required supplementary information** for my application (**YEM-11031/26**) that could not be submitted via the `future-in-russia.com` portal due to a persistent technical editing error. It serves as the complete record of my programming skills, projects, and professional objectives.
 
+
 ---
 
 ### **💻 Technical Projects**
@@ -20,7 +21,13 @@ This portfolio contains **all required supplementary information** for my applic
 #### **🔐 Security & Cryptography**
 *   **[Advanced Text Cipher System](04_Security_Related_Projects/advanced_multi_cipher.cpp)** - A multi-algorithm encryption/decryption console application with Arabic text support (Windows-1256 encoding). Demonstrates understanding of cryptographic principles, data structures (vectors), and algorithm design.
 *   **[Basic Text Cipher](04_Security_Related_Projects/simple_numeric_cipher.cpp)** - A foundational cipher program implementing custom character mapping and menu-driven logic.
-
+## 💳 Secure Banking System (C++)
+A console-based banking application with:
+- Account creation and login
+- Data encryption for sensitive information (phone, account number, password, balance)
+- File storage for persistent data
+- Basic operations: balance inquiry, deposit, withdrawal, and transfer
+- Custom encryption algorithms for educational purposes
 #### **💻 C++ Foundations**
 *   **[Input/Output Handler](03_Cpp_Foundations/input_handler.cpp)** - Program focusing on control flow and user input operations.
 *   **[Even Number Printer](03_Cpp_Foundations/even_numbers.cpp)** - A basic loop exercise.
